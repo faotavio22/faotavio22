@@ -2,7 +2,6 @@
 
 Meu  nome é Francisco Otávio
 
-- Estou estudando na Alura
 - Estou começando no universo da programação
 - Utilizarei esse espaço para compartilhar meus projetos
 
@@ -10,7 +9,7 @@ Meu  nome é Francisco Otávio
 
 faotavio22@gmail.com
 
-francisco-otávio22 no LinkedIn
+francisco-otávio22 no [LinkedIn](https://www.linkedin.com/in/francisco-ot%C3%A1vio22/)
 
 
 ![](https://media.tenor.com/mKfeCtD5EukAAAAM/the-office-the.gif)
