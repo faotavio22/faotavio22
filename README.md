@@ -3,7 +3,7 @@
 Meu  nome é Francisco Otávio
 
 - Estou começando no universo da programação
-- Utilizarei esse espaço para compartilhar meus projetos
+- Utilizo esse espaço para compartilhar meus projetos
 
 ### Você pode entra em contato comigo através de: 📫
 
